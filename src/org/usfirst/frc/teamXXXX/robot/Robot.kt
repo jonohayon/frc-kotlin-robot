@@ -1,4 +1,4 @@
-package org.usfirst.frc.team3316.robot
+package org.usfirst.frc.teamXXXX.robot
 
 import edu.wpi.first.wpilibj.IterativeRobot
 import edu.wpi.first.wpilibj.command.Command
@@ -7,8 +7,8 @@ import edu.wpi.first.wpilibj.livewindow.LiveWindow
 import edu.wpi.first.wpilibj.smartdashboard.SendableChooser
 import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard
 
-import org.usfirst.frc.team3316.robot.commands.ExampleCommand
-import org.usfirst.frc.team3316.robot.subsystems.ExampleSubsystem
+import org.usfirst.frc.teamXXXX.robot.commands.ExampleCommand
+import org.usfirst.frc.teamXXXX.robot.subsystems.ExampleSubsystem
 
 class Robot: IterativeRobot() {
   /**
