@@ -3,7 +3,7 @@ FRC Kotlin-based robot [WIP]
 
 > A command-based robot template in Kotlin
 
-*:warning: Warning - this hasn't been used yet on an actual robot yet, so it might not be working properly*
+:warning: *Warning - this hasn't been used yet on an actual robot yet, so it might not be working properly*
 
 ## What is this?
 As the project's tagline says, this is a template for a command-based robot written in Kotlin. As simple as that.
